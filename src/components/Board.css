@@ -1,0 +1,17 @@
+.board {
+  position: relative;
+  margin: 50px auto;
+  background-color: #2E2E2E;
+  background-image: linear-gradient(black 1px, transparent 1px),
+    linear-gradient(90deg, black 1px, transparent 1px);
+}
+
+.Cell {  background: white;  position: absolute;}
+
+.inputArea {
+  padding: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+  color: black;
+  background-color: #999;
+}

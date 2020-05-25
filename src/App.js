@@ -8,8 +8,8 @@ function App() {
       <h1>Conway's Game of Life</h1>
       <Board
         cellSize={10}
-        width={800}
-        height={1000}
+        width={400}
+        height={400}
       />
     </div>
   );
